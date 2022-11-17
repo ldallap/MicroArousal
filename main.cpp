@@ -1,10 +1,10 @@
 #include<iostream>
-#include "Randomnumber.h"
-#include "Channels_ECells.h"
-#include "Channels_ICells.h"
-#include "Variables.h"
-#include "Network.h"
-#include "NeuronsStructure.h"
+#include "Randomnumber.hpp"
+#include "Channels_ECells.hpp"
+#include "Channels_ICells.hpp"
+#include "Variables.hpp"
+#include "Network.hpp"
+#include "NeuronsStructure.hpp"
 
 using namespace std;
 
